@@ -9,7 +9,7 @@ function url_maker(){
     if(url_input != null && delay_input != null){
         url_generated_show.classList.toggle("d-none");
         url_msg.innerText = "url generated successfuly";
-        url_output.innerText = "https://welpike.github.io/url.html?redirect=" + encodeURIComponent(url_input) + "&delay=" + delay_input;
+        url_output.innerText = "https://welpike.github.io/url/url.html?redirect=" + encodeURIComponent(url_input) + "&delay=" + delay_input;
     }
     else{
         url_msg.innerText = "error";
