@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://welpike.github.io/</loc>
+        <loc>https://welpike.github.io/url</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://welpike.github.io/url-maker.html</loc>
+        <loc>https://welpike.github.io/url/url-maker.html</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://welpike.github.io/docs.html</loc>
+        <loc>https://welpike.github.io/url/docs.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://welpike.github.io/docs/rickroll.html</loc>
+        <loc>https://welpike.github.io/url/docs/rickroll.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://welpike.github.io/download.html</loc>
+        <loc>https://welpike.github.io/url/download.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>

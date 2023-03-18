@@ -1,6 +1,0 @@
-# welpike.github.io/robots.txt
-User-agent: *
-
-Disallow: /url.html
-Disallow: /docs-test.html
-Disallow: /googlef1824a6a3442da0a.html
